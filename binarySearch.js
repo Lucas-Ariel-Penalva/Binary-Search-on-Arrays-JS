@@ -19,7 +19,7 @@ function binarySearchNum(arr,num){
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
 
-String.prototype.localeCompare() is useful for comparing strings as the optional arguments let you specify the language you are working and much more 
+String.prototype.localeCompare() is useful for comparing strings as the optional arguments let you specify the language you are working with and much more 
 such as how punctuation or case should be treated by the comparison function. It's better practice than relying on the pseudo-alphabetical sort that 
 Array.prototype.sort() applies when you don't specify any argument (Javascript Array Sort also modifies the array in place, which can create mutations). */
 
